@@ -42,13 +42,13 @@ impl Init {
     }
 
     fn toc(&mut self) {
-        let res = Results {
-            nanos: self.time.elapsed().as_nanos(),
-            micros: self.time.elapsed().as_micros(),
-            millis: self.time.elapsed().as_millis(),
-            seconds: self.time.elapsed().as_secs_f64(),
+        let elapsed_time = self.time.elapsed();
+        self.results = Results {
+            nanos: elapsed_time.as_nanos(),
+            micros: elapsed_time.as_micros(),
+            millis: elapsed_time.as_millis(),
+            seconds: elapsed_time.as_secs_f64(),
         };
-        self.results = res;
     }
 }
 
