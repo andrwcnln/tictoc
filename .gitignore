@@ -77,8 +77,5 @@ docs/_build/
 # pyenv
 .env/
 
-# Python files
-run.py
-
 # Rust files
 src/main.rs
