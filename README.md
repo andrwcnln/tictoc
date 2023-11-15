@@ -45,5 +45,5 @@ time.sleep(3) # sleep for 3 seconds
 t.toc()       # stop timing
 
 print(t.results.seconds)
-# >>> 
-``` 3.000457715
+# >>> 3.000457715
+``` 
