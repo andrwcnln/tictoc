@@ -4,7 +4,7 @@
 # Fast, simple and accurate Python timing. Written in Rust.
 
 ## Installation
-Install with [pip](https://pypi.org/project/pip):
+Install with [pip](https://pypi.org/project/pip).
 ```bash
 $ python -m pip install tictoc
 ```
