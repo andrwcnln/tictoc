@@ -72,7 +72,7 @@ docs/_build/
 .python-version
 
 # GitHub Actions
-.github/
+#.github/
 
 # pyenv
 .env/
