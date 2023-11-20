@@ -37,7 +37,7 @@ jobs:
       run: |
         pytest -v tests
 
-  build:
+  rust:
 
     runs-on: ubuntu-latest
 
