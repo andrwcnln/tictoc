@@ -3,6 +3,8 @@
 
 # Fast, simple and accurate Python timing. Written in Rust.
 
+![badge](https://github.com/andrwcnln/nfl/actions/workflows/tests.yml/badge.svg)
+
 ## Installation
 Install with [pip](https://pypi.org/project/pip).
 ```bash
