@@ -3,7 +3,8 @@
 
 # Fast, simple and accurate Python timing. Written in Rust.
 
-![badge](https://github.com/andrwcnln/tictoc-py/actions/workflows/tests.yml/badge.svg)
+![badge](https://github.com/andrwcnln/tictoc-py/actions/workflows/python.yml/badge.svg)
+![badge](https://github.com/andrwcnln/tictoc-py/actions/workflows/rust.yml/badge.svg)
 
 ## Installation
 Install with [pip](https://pypi.org/project/pip).
