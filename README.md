@@ -9,7 +9,7 @@
 ## Installation
 Install with [pip](https://pypi.org/project/pip).
 ```bash
-$ python -m pip install tictoc
+$ python -m pip install tictoc-py
 ```
 
 ## Usage
