@@ -17,6 +17,8 @@ on:
 
 permissions:
   contents: read
+  id-token: write
+
 
 jobs:
   linux:
@@ -113,8 +115,6 @@ jobs:
           name: wheels
       - name: Publish to PyPI
         uses: PyO3/maturin-action@v1
-        permissions:
-          id-token: write
         with:
           command: upload
           args: --non-interactive --skip-existing *
