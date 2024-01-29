@@ -5,6 +5,7 @@
 
 ![badge](https://github.com/andrwcnln/tictoc-py/actions/workflows/python.yml/badge.svg)
 ![badge](https://github.com/andrwcnln/tictoc-py/actions/workflows/rust.yml/badge.svg)
+![badge](https://img.shields.io/pypi/dm/tictoc)
 
 ## Installation
 Install with [pip](https://pypi.org/project/pip).
