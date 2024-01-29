@@ -79,3 +79,5 @@ docs/_build/
 
 # Rust files
 src/main.rs
+
+blog.md
